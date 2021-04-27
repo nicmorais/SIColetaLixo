@@ -1,0 +1,2193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="215.39755mm"
+   height="205.36423mm"
+   viewBox="0 0 215.39755 205.36423"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Visão e Escopo.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/nicolas/Documentos/SIColetaLixo/Documentacao/Visão e Escopo.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8095"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8093"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2179"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2176"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7470"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7468"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3067"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3065"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2955"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2953"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2061"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2055"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="10"
+       markerWidth="10"
+       refY="10"
+       refX="11"
+       viewBox="0 0 20 20"
+       id="sequenceflow-end-white-black-aq73b36x9rcvk7104pv3p2130">
+      <path
+         id="path834"
+         style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-dasharray:10000, 1"
+         d="M 1,5 11,10 1,15 Z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="10"
+       markerWidth="10"
+       refY="10"
+       refX="12"
+       viewBox="0 0 20 20"
+       id="association-end-white-black-aq73b36x9rcvk7104pv3p2130">
+      <path
+         id="path837"
+         style="fill:none;stroke:#000000;stroke-width:1.5px;stroke-linecap:round;stroke-dasharray:10000, 1"
+         d="M 1,5 11,10 1,15"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="20"
+       markerWidth="20"
+       refY="5"
+       refX="8.5"
+       viewBox="0 0 20 20"
+       id="messageflow-end-white-black-aq73b36x9rcvk7104pv3p2130">
+      <path
+         id="path840"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-dasharray:10000, 1"
+         d="M 1,5 V 2 L 8,5 1,8 Z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       orient="auto"
+       markerHeight="20"
+       markerWidth="20"
+       refY="6"
+       refX="6"
+       viewBox="0 0 20 20"
+       id="messageflow-start-white-black-aq73b36x9rcvk7104pv3p2130">
+      <circle
+         id="circle843"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-dasharray:10000, 1"
+         r="3.5"
+         cy="6"
+         cx="6" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2055-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3067-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3065-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3067-6-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3065-0-1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-2-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2055-9-4"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3067-6-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3065-0-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="498.90267"
+     inkscape:cy="614.79583"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1849"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(83.721222,-80.778721)">
+    <g
+       id="g1849"
+       transform="matrix(0.26458333,0,0,0.26458333,-129.07887,66.35893)">
+      <rect
+         x="209.9982"
+         y="310"
+         width="773.27563"
+         height="519.61206"
+         rx="0"
+         ry="0"
+         style="fill:none;fill-opacity:0.35;stroke:#000000;stroke-width:2px"
+         id="rect866-3" />
+      <g
+         id="g872"
+         class="djs-visual"
+         transform="translate(210,62)">
+        <rect
+           id="rect866"
+           style="fill:#ffffff;fill-opacity:0.35;stroke:#000000;stroke-width:2px"
+           ry="0"
+           rx="0"
+           height="238"
+           width="774.28571"
+           y="0"
+           x="0" />
+        <text
+           id="text870"
+           transform="rotate(-90,119,119)"
+           style="font-weight:normal;font-size:12px;font-family:Arial, sans-serif;fill:#000000"
+           class="djs-label"
+           lineHeight="1.2">
+          <tspan
+             id="tspan868"
+             y="18.6"
+             x="119" />
+        </text>
+      </g>
+      <rect
+         id="rect874"
+         style="fill:none"
+         class="djs-outline"
+         height="250"
+         width="877.71429"
+         y="56"
+         x="204" />
+      <rect
+         id="rect876"
+         style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+         height="238"
+         width="1180"
+         y="62"
+         x="210"
+         class="djs-hit djs-hit-click-stroke" />
+      <rect
+         id="rect878"
+         style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+         height="238"
+         width="30"
+         y="62"
+         x="210"
+         class="djs-hit djs-hit-all" />
+      <g
+         id="g894"
+         class="djs-group"
+         transform="translate(105.10302)">
+        <g
+           id="g892"
+           style="display:block"
+           data-element-id="Flow_1raoqqh"
+           class="djs-element djs-connection">
+          <g
+             id="g886"
+             class="djs-visual">
+            <path
+               id="path884"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linejoin:round;marker-end:url(#sequenceflow-end-white-black-aq73b36x9rcvk7104pv3p2130)"
+               d="m 545,132 h 65"
+               inkscape:connector-curvature="0" />
+          </g>
+          <polyline
+             id="polyline888"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="545,132 610,132 " />
+          <rect
+             id="rect890"
+             style="fill:none"
+             class="djs-outline"
+             height="12"
+             width="77"
+             y="126"
+             x="539" />
+        </g>
+      </g>
+      <g
+         id="g906"
+         class="djs-group">
+        <g
+           id="g904"
+           style="display:block"
+           data-element-id="Flow_1i27wej"
+           class="djs-element djs-connection">
+          <g
+             id="g898"
+             class="djs-visual">
+            <path
+               id="path896"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linejoin:round;marker-end:url(#sequenceflow-end-white-black-aq73b36x9rcvk7104pv3p2130)"
+               d="m 428,132 h 67"
+               inkscape:connector-curvature="0" />
+          </g>
+          <polyline
+             id="polyline900"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="428,132 495,132 " />
+          <rect
+             id="rect902"
+             style="fill:none"
+             class="djs-outline"
+             height="12"
+             width="79"
+             y="126"
+             x="422" />
+        </g>
+      </g>
+      <g
+         id="g918"
+         class="djs-group">
+        <g
+           id="g916"
+           style="display:block"
+           data-element-id="Flow_0lr7qcw"
+           class="djs-element djs-connection">
+          <g
+             id="g910"
+             class="djs-visual">
+            <path
+               id="path908"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linejoin:round;marker-end:url(#sequenceflow-end-white-black-aq73b36x9rcvk7104pv3p2130)"
+               d="m 266,132 h 62"
+               inkscape:connector-curvature="0" />
+          </g>
+          <polyline
+             id="polyline912"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="266,132 328,132 " />
+          <rect
+             id="rect914"
+             style="fill:none"
+             class="djs-outline"
+             height="12"
+             width="74"
+             y="126"
+             x="260" />
+        </g>
+      </g>
+      <g
+         id="g930"
+         class="djs-group">
+        <g
+           id="g928"
+           style="display:block"
+           data-element-id="Flow_0wz3bep"
+           class="djs-element djs-connection">
+          <g
+             id="g922"
+             class="djs-visual">
+            <path
+               id="path920"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linejoin:round;marker-end:url(#sequenceflow-end-white-black-aq73b36x9rcvk7104pv3p2130)"
+               d="m 520,157 v 43 H 378 v -28"
+               inkscape:connector-curvature="0" />
+          </g>
+          <polyline
+             id="polyline924"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="520,157 520,200 378,200 378,172 " />
+          <rect
+             id="rect926"
+             style="fill:none"
+             class="djs-outline"
+             height="55"
+             width="154"
+             y="151"
+             x="372" />
+        </g>
+      </g>
+      <g
+         id="g942"
+         class="djs-group"
+         transform="translate(105.10302)">
+        <g
+           id="g940"
+           style="display:block"
+           data-element-id="Flow_0b1cbix"
+           class="djs-element djs-connection">
+          <g
+             id="g934"
+             class="djs-visual">
+            <path
+               id="path932"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linejoin:round;marker-end:url(#sequenceflow-end-white-black-aq73b36x9rcvk7104pv3p2130)"
+               d="m 710,132 h 50"
+               inkscape:connector-curvature="0" />
+          </g>
+          <polyline
+             id="polyline936"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="710,132 760,132 " />
+          <rect
+             id="rect938"
+             style="fill:none"
+             class="djs-outline"
+             height="12"
+             width="62"
+             y="126"
+             x="704" />
+        </g>
+      </g>
+      <g
+         id="g982"
+         class="djs-group">
+        <g
+           id="g980"
+           transform="translate(230,114)"
+           style="display:block"
+           data-element-id="StartEvent_1"
+           class="djs-element djs-shape">
+          <g
+             id="g974"
+             class="djs-visual">
+            <circle
+               id="circle944"
+               style="fill:#ffe0b2;fill-opacity:0.95;stroke:#fb8c00;stroke-width:2px"
+               r="18"
+               cy="18"
+               cx="18" />
+            <circle
+               id="circle946"
+               style="fill:#ffe0b2;stroke:#fb8c00;stroke-width:2px"
+               r="11"
+               cy="18"
+               cx="18" />
+            <path
+               id="path948"
+               style="fill:none;stroke:#fb8c00;stroke-width:2px;stroke-linecap:square"
+               d="m 18,18 2.25,-7.5 M 18,18 l 5.25,1.5"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path950"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path952"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(30,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path954"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(60,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path956"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(90,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path958"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(120,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path960"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(150,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path962"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(180,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path964"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(-150,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path966"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(-120,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path968"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(-90,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path970"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(-60,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path972"
+               style="fill:none;stroke:#fb8c00;stroke-width:1px;stroke-linecap:square"
+               transform="rotate(-30,18,18)"
+               d="m 18,18 m 0,7.5 v 2.25"
+               inkscape:connector-curvature="0" />
+          </g>
+          <rect
+             id="rect976"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="36"
+             width="36"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect978"
+             style="fill:none"
+             class="djs-outline"
+             height="48"
+             width="48"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <rect
+         x="328"
+         y="92"
+         width="100"
+         height="80"
+         rx="10"
+         ry="10"
+         style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+         id="rect984" />
+      <text
+         lineHeight="1.2"
+         class="djs-label"
+         style="font-weight:normal;font-size:12px;font-family:Arial, sans-serif;fill:#000000"
+         id="text990"
+         x="328"
+         y="92">
+        <tspan
+           x="342.98438"
+           y="128.39999"
+           id="tspan986">Verificar ruas</tspan>
+        <tspan
+           x="348.64844"
+           y="142.8"
+           id="tspan988">trafegáveis</tspan>
+      </text>
+      <rect
+         id="rect996"
+         style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+         height="80"
+         width="100"
+         y="92"
+         x="328"
+         class="djs-hit djs-hit-all" />
+      <rect
+         id="rect998"
+         style="fill:none"
+         class="djs-outline"
+         height="92"
+         width="112"
+         y="86"
+         x="322" />
+      <polygon
+         points="50,25 25,50 0,25 25,0 "
+         style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+         id="polygon1004"
+         transform="translate(600.10302,107)" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 616.10302,122 7.42857,9.71429 -7.42857,9.71428 h 3.42857 l 5.71429,-7.46423 5.71428,7.46423 h 3.42857 L 626.96016,131.71429 634.38873,122 h -3.42857 l -5.71428,7.46423 L 619.53159,122 Z"
+         style="fill:#000000;stroke:#000000;stroke-width:1px"
+         id="path1006" />
+      <rect
+         id="rect1010"
+         style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+         height="50"
+         width="50"
+         y="107"
+         x="600.10303"
+         class="djs-hit djs-hit-all" />
+      <rect
+         id="rect1012"
+         style="fill:none"
+         class="djs-outline"
+         height="62"
+         width="62"
+         y="101"
+         x="594.10303" />
+      <g
+         id="g1036"
+         class="djs-group"
+         transform="translate(105.10302)">
+        <g
+           id="g1034"
+           transform="translate(610,92)"
+           style="display:block"
+           data-element-id="Activity_0zyol0l"
+           class="djs-element djs-shape">
+          <g
+             id="g1028"
+             class="djs-visual">
+            <rect
+               id="rect1018"
+               style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+               ry="10"
+               rx="10"
+               height="80"
+               width="100"
+               y="0"
+               x="0" />
+            <text
+               id="text1026"
+               style="font-weight:normal;font-size:12px;font-family:Arial, sans-serif;fill:#000000"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1020"
+                 y="29.200001"
+                 x="5.8125">Calcular número</tspan>
+              <tspan
+                 id="tspan1022"
+                 y="43.599998"
+                 x="12.640625">de caminhões</tspan>
+              <tspan
+                 id="tspan1024"
+                 y="58"
+                 x="17.984375">necessários</tspan>
+            </text>
+          </g>
+          <rect
+             id="rect1030"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="80"
+             width="100"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1032"
+             style="fill:none"
+             class="djs-outline"
+             height="92"
+             width="112"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1048"
+         class="djs-group"
+         transform="translate(105.10302)">
+        <g
+           id="g1046"
+           transform="translate(792,215)"
+           style="display:block"
+           data-element-id="DataObjectReference_0rcj63g"
+           class="djs-element djs-shape">
+          <g
+             id="g1040"
+             class="djs-visual">
+            <path
+               id="path1038"
+               style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+               d="m 0,0 h 28.235294 l 7.058824,8.1967213 V 49.180328 H 0 V 0 h 28.235294 v 8.1967213 h 7.058824"
+               inkscape:connector-curvature="0" />
+          </g>
+          <rect
+             id="rect1042"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="50"
+             width="36"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1044"
+             style="fill:none"
+             class="djs-outline"
+             height="62"
+             width="48"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_1t6eznj"
+         style="display:block"
+         transform="translate(865.10302,92)"
+         id="g1064">
+        <g
+           class="djs-visual"
+           id="g1058">
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             rx="10"
+             ry="10"
+             style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+             id="rect1050" />
+          <text
+             lineHeight="1.2"
+             class="djs-label"
+             style="font-weight:normal;font-size:12px;font-family:Arial, sans-serif;fill:#000000"
+             id="text1056">
+            <tspan
+               x="17.976562"
+               y="36.400002"
+               id="tspan1052">Encaminhar</tspan>
+            <tspan
+               x="27.984375"
+               y="50.799999"
+               id="tspan1054">veículos</tspan>
+          </text>
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           x="0"
+           y="0"
+           width="100"
+           height="80"
+           style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+           id="rect1060" />
+        <rect
+           x="-6"
+           y="-6"
+           width="112"
+           height="92"
+           class="djs-outline"
+           style="fill:none"
+           id="rect1062" />
+      </g>
+      <g
+         id="g1086"
+         class="djs-group">
+        <g
+           id="g1084"
+           transform="translate(221,157)"
+           style="display:block"
+           data-element-id="StartEvent_1_label"
+           class="djs-element djs-shape">
+          <g
+             id="g1078"
+             class="djs-visual">
+            <text
+               id="text1076"
+               style="font-weight:normal;font-size:11px;font-family:Arial, sans-serif;fill:#fb8c00"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1072"
+                 y="9.8999996"
+                 x="6.1171875">Início de</tspan>
+              <tspan
+                 id="tspan1074"
+                 y="23.1"
+                 x="0">expediente</tspan>
+            </text>
+          </g>
+          <rect
+             id="rect1080"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="27"
+             width="54"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1082"
+             style="fill:none"
+             class="djs-outline"
+             height="39"
+             width="66"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <text
+         lineHeight="1.2"
+         class="djs-label"
+         style="font-weight:normal;font-size:11px;font-family:Arial, sans-serif;fill:#000000"
+         id="text1092"
+         x="592.10303"
+         y="78">
+        <tspan
+           x="592.10303"
+           y="87.900002"
+           id="tspan1088">Há caminhão</tspan>
+        <tspan
+           x="605.55615"
+           y="101.1"
+           id="tspan1090">ocioso?</tspan>
+      </text>
+      <rect
+         id="rect1096"
+         style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+         height="27"
+         width="65"
+         y="78"
+         x="592.10303"
+         class="djs-hit djs-hit-all" />
+      <rect
+         id="rect1098"
+         style="fill:none"
+         class="djs-outline"
+         height="39"
+         width="77"
+         y="72"
+         x="586.10303" />
+      <polygon
+         points="0,25 25,0 50,25 25,50 "
+         style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+         id="polygon1314"
+         transform="translate(345,579.75129)" />
+      <g
+         id="g1158"
+         class="djs-group"
+         transform="translate(0,74.751289)">
+        <g
+           id="g1156"
+           transform="translate(590,655)"
+           style="display:block"
+           data-element-id="TextAnnotation_08i9pmv"
+           class="djs-element djs-shape">
+          <g
+             id="g1150"
+             class="djs-visual">
+            <rect
+               id="rect1136"
+               style="fill:none;stroke:none;stroke-width:2px"
+               ry="0"
+               rx="0"
+               height="82"
+               width="100"
+               y="0"
+               x="0" />
+            <path
+               id="path1138"
+               style="fill:none;stroke:#000000;stroke-width:2px"
+               d="M 0,0 M 10,0 H 0 v 82 h 10"
+               inkscape:connector-curvature="0" />
+            <text
+               id="text1148"
+               style="font-weight:normal;font-size:12px;font-family:Arial, sans-serif;fill:#000000"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1140"
+                 y="15.8"
+                 x="5">Será usado para</tspan>
+              <tspan
+                 id="tspan1142"
+                 y="30.200001"
+                 x="5">determinar</tspan>
+              <tspan
+                 id="tspan1144"
+                 y="44.599998"
+                 x="5">quanto lixo cada</tspan>
+              <tspan
+                 id="tspan1146"
+                 y="59"
+                 x="5">rua produz</tspan>
+            </text>
+          </g>
+          <rect
+             id="rect1152"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="82"
+             width="100"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1154"
+             style="fill:none"
+             class="djs-outline"
+             height="94"
+             width="112"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1196"
+         class="djs-group">
+        <g
+           id="g1194"
+           style="display:block"
+           data-element-id="Flow_18juhu1"
+           class="djs-element djs-connection">
+          <g
+             id="g1188"
+             class="djs-visual">
+            <path
+               id="path1186"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linejoin:round;marker-end:url(#sequenceflow-end-white-black-aq73b36x9rcvk7104pv3p2130)"
+               d="m 268,380 h 52"
+               inkscape:connector-curvature="0" />
+          </g>
+          <polyline
+             id="polyline1190"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="268,380 320,380 " />
+          <rect
+             id="rect1192"
+             style="fill:none"
+             class="djs-outline"
+             height="12"
+             width="64"
+             y="374"
+             x="262" />
+        </g>
+      </g>
+      <g
+         id="g1208"
+         class="djs-group"
+         transform="translate(0,74.751289)">
+        <g
+           id="g1206"
+           style="display:block"
+           data-element-id="Flow_0myagvj"
+           class="djs-element djs-connection">
+          <g
+             id="g1200"
+             class="djs-visual">
+            <path
+               id="path1198"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linejoin:round;marker-end:url(#sequenceflow-end-white-black-aq73b36x9rcvk7104pv3p2130)"
+               d="m 268,530 h 77"
+               inkscape:connector-curvature="0" />
+          </g>
+          <polyline
+             id="polyline1202"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="268,530 345,530 " />
+          <rect
+             id="rect1204"
+             style="fill:none"
+             class="djs-outline"
+             height="12"
+             width="89"
+             y="524"
+             x="262" />
+        </g>
+      </g>
+      <g
+         id="g1220"
+         class="djs-group">
+        <g
+           id="g1218"
+           transform="translate(232,362)"
+           style="display:block"
+           data-element-id="Event_0dvjo2k"
+           class="djs-element djs-shape">
+          <g
+             id="g1212"
+             class="djs-visual">
+            <circle
+               id="circle1210"
+               style="fill:#bbdefb;fill-opacity:0.95;stroke:#1e88e5;stroke-width:2px"
+               r="18"
+               cy="18"
+               cx="18" />
+          </g>
+          <rect
+             id="rect1214"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="36"
+             width="36"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1216"
+             style="fill:none"
+             class="djs-outline"
+             height="48"
+             width="48"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1232"
+         class="djs-group"
+         transform="translate(0,74.751289)">
+        <g
+           id="g1230"
+           transform="translate(225,625)"
+           style="display:block"
+           data-element-id="DataStoreReference_033vu00"
+           class="djs-element djs-shape">
+          <g
+             id="g1224"
+             class="djs-visual">
+            <path
+               id="path1222"
+               style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+               d="m 0,6.65 v 36.885246 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 V 6.65 C 47.540984,-1.5467213 1.6393443,-1.5467213 0,6.65 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 M 0,12.387705 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 M 0,18.12541 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <rect
+             id="rect1226"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="50"
+             width="50"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1228"
+             style="fill:none"
+             class="djs-outline"
+             height="62"
+             width="62"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1244"
+         class="djs-group"
+         transform="translate(0,74.751289)">
+        <g
+           id="g1242"
+           transform="translate(232,512)"
+           style="display:block"
+           data-element-id="Event_0rm9c3y"
+           class="djs-element djs-shape">
+          <g
+             id="g1236"
+             class="djs-visual">
+            <circle
+               id="circle1234"
+               style="fill:#bbdefb;fill-opacity:0.95;stroke:#1e88e5;stroke-width:2px"
+               r="18"
+               cy="18"
+               cx="18" />
+          </g>
+          <rect
+             id="rect1238"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="36"
+             width="36"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1240"
+             style="fill:none"
+             class="djs-outline"
+             height="48"
+             width="48"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1266"
+         class="djs-group">
+        <g
+           id="g1264"
+           transform="translate(320,340)"
+           style="display:block"
+           data-element-id="Activity_1psnyv6"
+           class="djs-element djs-shape">
+          <g
+             id="g1258"
+             class="djs-visual">
+            <rect
+               id="rect1246"
+               style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+               ry="10"
+               rx="10"
+               height="80"
+               width="100"
+               y="0"
+               x="0" />
+            <text
+               id="text1256"
+               style="font-weight:normal;font-size:12px;font-family:Arial, sans-serif;fill:#000000"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1248"
+                 y="22"
+                 x="33.992188">Iniciar</tspan>
+              <tspan
+                 id="tspan1250"
+                 y="36.400002"
+                 x="9.8125">monitoramento</tspan>
+              <tspan
+                 id="tspan1252"
+                 y="50.799999"
+                 x="43.15625">de</tspan>
+              <tspan
+                 id="tspan1254"
+                 y="65.199997"
+                 x="10.140625">geolocalização</tspan>
+            </text>
+          </g>
+          <rect
+             id="rect1260"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="80"
+             width="100"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1262"
+             style="fill:none"
+             class="djs-outline"
+             height="92"
+             width="112"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1278"
+         class="djs-group"
+         transform="translate(-249.89994,78.010153)">
+        <g
+           id="g1276"
+           transform="translate(475,355)"
+           style="display:block"
+           data-element-id="DataStoreReference_1e4kegr"
+           class="djs-element djs-shape">
+          <g
+             id="g1270"
+             class="djs-visual">
+            <path
+               id="path1268"
+               style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+               d="m 0,6.65 v 36.885246 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 V 6.65 C 47.540984,-1.5467213 1.6393443,-1.5467213 0,6.65 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 M 0,12.387705 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 M 0,18.12541 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <rect
+             id="rect1272"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="50"
+             width="50"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1274"
+             style="fill:none"
+             class="djs-outline"
+             height="62"
+             width="62"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1290"
+         class="djs-group"
+         transform="translate(0,74.751289)">
+        <g
+           id="g1288"
+           transform="translate(475,645)"
+           style="display:block"
+           data-element-id="DataStoreReference_0b86fsa"
+           class="djs-element djs-shape">
+          <g
+             id="g1282"
+             class="djs-visual">
+            <path
+               id="path1280"
+               style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+               d="m 0,6.65 v 36.885246 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 V 6.65 C 47.540984,-1.5467213 1.6393443,-1.5467213 0,6.65 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 M 0,12.387705 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 M 0,18.12541 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <rect
+             id="rect1284"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="50"
+             width="50"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1286"
+             style="fill:none"
+             class="djs-outline"
+             height="62"
+             width="62"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         class="djs-element djs-shape"
+         data-element-id="Activity_01kju06"
+         style="display:block"
+         transform="translate(603.57143,490)"
+         id="g1310">
+        <g
+           class="djs-visual"
+           id="g1304">
+          <rect
+             x="0"
+             y="72.85714"
+             width="100"
+             height="80"
+             rx="10"
+             ry="10"
+             style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+             id="rect1292" />
+          <text
+             lineHeight="1.2"
+             class="djs-label"
+             style="font-weight:normal;font-size:12px;font-family:Arial, sans-serif;fill:#000000"
+             id="text1302"
+             y="72.85714">
+            <tspan
+               x="17.976562"
+               y="94.85714"
+               id="tspan1294">Encaminhar</tspan>
+            <tspan
+               x="20.984375"
+               y="109.25714"
+               id="tspan1296">caminhões</tspan>
+            <tspan
+               x="10.8125"
+               y="123.65714"
+               id="tspan1298">ociosos para o</tspan>
+            <tspan
+               x="11.820312"
+               y="138.05714"
+               id="tspan1300">mesmo trajeto</tspan>
+          </text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1.37952757;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+             d="M -58.571433,-358.00001 H -9.5293217"
+             id="path7466"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <rect
+           class="djs-hit djs-hit-all"
+           x="0"
+           y="0"
+           width="100"
+           height="80"
+           style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+           id="rect1306" />
+        <rect
+           x="-6"
+           y="-6"
+           width="112"
+           height="92"
+           class="djs-outline"
+           style="fill:none"
+           id="rect1308" />
+      </g>
+      <rect
+         id="rect1320"
+         style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+         height="50"
+         width="50"
+         y="579.75128"
+         x="345"
+         class="djs-hit djs-hit-all" />
+      <rect
+         id="rect1322"
+         style="fill:none"
+         class="djs-outline"
+         height="62"
+         width="62"
+         y="573.75128"
+         x="339" />
+      <polygon
+         points="25,0 50,25 25,50 0,25 "
+         style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+         id="polygon1314-8"
+         transform="translate(473.57144,579.75128)" />
+      <g
+         id="g1338"
+         class="djs-group"
+         transform="translate(0,74.751289)">
+        <g
+           id="g1336"
+           style="display:block"
+           data-element-id="Association_1tjphyy"
+           class="djs-element djs-connection">
+          <g
+             id="g1330"
+             class="djs-visual">
+            <polyline
+               id="polyline1328"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.5, 5"
+               points="525,670 590,670 " />
+          </g>
+          <polyline
+             id="polyline1332"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="525,670 590,670 " />
+          <rect
+             id="rect1334"
+             style="fill:none"
+             class="djs-outline"
+             height="12"
+             width="77"
+             y="664"
+             x="519" />
+        </g>
+      </g>
+      <g
+         id="g1356"
+         class="djs-group" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2943"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(502.50436,-171.00336)"><flowRegion
+           id="flowRegion2945"><rect
+             id="rect2947"
+             width="158.08887"
+             height="83.337585"
+             x="27.274118"
+             y="733.61096" /></flowRegion><flowPara
+           id="flowPara2949"
+           style="font-size:10.66666698px">Sim</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6053"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(499.97898,-164.94244)"><flowRegion
+           id="flowRegion6055"
+           style="font-size:10.66666698px"><rect
+             id="rect6057"
+             width="103.57144"
+             height="49.999981"
+             x="-92.857155"
+             y="755.80542"
+             style="font-size:10.66666698px" /></flowRegion><flowPara
+           id="flowPara6059">Cheio</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6053-9"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(567.59686,-203.2037)"><flowRegion
+           id="flowRegion6055-1"
+           style="font-size:10.66666698px"><rect
+             id="rect6057-0"
+             width="68.216103"
+             height="52.020306"
+             x="-92.857155"
+             y="755.80542"
+             style="font-size:10.66666698px" /></flowRegion><flowPara
+           id="flowPara6059-7">Ficou lixo para trás?</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6053-4"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(469.10698,-79.965091)"><flowRegion
+           id="flowRegion6055-8"
+           style="font-size:10.66666698px"><rect
+             id="rect6057-04"
+             width="78.317627"
+             height="47.979694"
+             x="-92.857155"
+             y="755.80542"
+             style="font-size:10.66666698px" /></flowRegion><flowPara
+           id="flowPara6059-2">Parcialmente ou vazio</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path2951-2"
+         d="m 370,629.75129 v 124.21429 l 102.5,1.07144"
+         style="fill:none;stroke:#000000;stroke-width:1.75748038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.75748033, 7.02992135;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3067-6)" />
+      <g
+         id="g1384"
+         class="djs-group"
+         transform="translate(105.10302)">
+        <g
+           id="g1382"
+           style="display:block"
+           data-element-id="DataOutputAssociation_12719ro"
+           class="djs-element djs-connection">
+          <g
+             id="g1376"
+             class="djs-visual">
+            <polyline
+               id="polyline1374"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.5, 5;marker-end:url(#association-end-white-black-aq73b36x9rcvk7104pv3p2130)"
+               points="810,172 811,215 " />
+          </g>
+          <polyline
+             id="polyline1378"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="810,172 811,215 " />
+          <rect
+             id="rect1380"
+             style="fill:none"
+             class="djs-outline"
+             height="55"
+             width="13"
+             y="166"
+             x="804" />
+        </g>
+      </g>
+      <g
+         id="g1398"
+         class="djs-group"
+         transform="translate(81.481827,1.0958114)">
+        <g
+           id="g1396"
+           transform="translate(569,114)"
+           style="display:block"
+           data-element-id="Flow_1raoqqh_label"
+           class="djs-element djs-shape">
+          <g
+             id="g1390"
+             class="djs-visual">
+            <text
+               id="text1388"
+               style="font-weight:normal;font-size:11px;font-family:Arial, sans-serif;fill:#000000"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1386"
+                 y="9.8999996"
+                 x="0">Sim</tspan>
+            </text>
+          </g>
+          <rect
+             id="rect1392"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="14"
+             width="19"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1394"
+             style="fill:none"
+             class="djs-outline"
+             height="26"
+             width="31"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1412"
+         class="djs-group"
+         transform="translate(103.57143,1.4285714)">
+        <g
+           id="g1410"
+           transform="translate(769,272)"
+           style="display:block"
+           data-element-id="DataObjectReference_0rcj63g_label"
+           class="djs-element djs-shape">
+          <g
+             id="g1404"
+             class="djs-visual">
+            <text
+               id="text1402"
+               style="font-weight:normal;font-size:11px;font-family:Arial, sans-serif;fill:#000000"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1400"
+                 y="9.8999996"
+                 x="0">Avisar motoristas</tspan>
+            </text>
+          </g>
+          <rect
+             id="rect1406"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="14"
+             width="85"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1408"
+             style="fill:none"
+             class="djs-outline"
+             height="26"
+             width="97"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1424"
+         class="djs-group"
+         transform="translate(0,74.751289)">
+        <g
+           id="g1422"
+           style="display:block"
+           data-element-id="DataOutputAssociation_1fq4ed5"
+           class="djs-element djs-connection">
+          <g
+             id="g1416"
+             class="djs-visual">
+            <polyline
+               id="polyline1414"
+               style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.5, 5;marker-end:url(#association-end-white-black-aq73b36x9rcvk7104pv3p2130)"
+               points="250,548 250,625 " />
+          </g>
+          <polyline
+             id="polyline1418"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             class="djs-hit djs-hit-stroke"
+             points="250,548 250,625 " />
+          <rect
+             id="rect1420"
+             style="fill:none"
+             class="djs-outline"
+             height="89"
+             width="12"
+             y="542"
+             x="244" />
+        </g>
+      </g>
+      <g
+         id="g1440"
+         class="djs-group">
+        <g
+           id="g1438"
+           transform="translate(226,325)"
+           style="display:block"
+           data-element-id="Event_0dvjo2k_label"
+           class="djs-element djs-shape">
+          <g
+             id="g1432"
+             class="djs-visual">
+            <text
+               id="text1430"
+               style="font-weight:normal;font-size:11px;font-family:Arial, sans-serif;fill:#1e88e5"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1426"
+                 y="9.8999996"
+                 x="1.828125">Saída de</tspan>
+              <tspan
+                 id="tspan1428"
+                 y="23.1"
+                 x="0">caminhão</tspan>
+            </text>
+          </g>
+          <rect
+             id="rect1434"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="27"
+             width="48"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1436"
+             style="fill:none"
+             class="djs-outline"
+             height="39"
+             width="60"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1456"
+         class="djs-group"
+         transform="translate(0,74.751289)">
+        <g
+           id="g1454"
+           transform="translate(208,682)"
+           style="display:block"
+           data-element-id="DataStoreReference_033vu00_label"
+           class="djs-element djs-shape">
+          <g
+             id="g1448"
+             class="djs-visual">
+            <text
+               id="text1446"
+               style="font-weight:normal;font-size:11px;font-family:Arial, sans-serif;fill:#000000"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1442"
+                 y="9.8999996"
+                 x="4.1171875">Registrar hora /</tspan>
+              <tspan
+                 id="tspan1444"
+                 y="23.1"
+                 x="0">Caminhão ocioso</tspan>
+            </text>
+          </g>
+          <rect
+             id="rect1450"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="27"
+             width="85"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1452"
+             style="fill:none"
+             class="djs-outline"
+             height="39"
+             width="97"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1472"
+         class="djs-group"
+         transform="translate(0,74.751289)">
+        <g
+           id="g1470"
+           transform="translate(223,475)"
+           style="display:block"
+           data-element-id="Event_0rm9c3y_label"
+           class="djs-element djs-shape">
+          <g
+             id="g1464"
+             class="djs-visual">
+            <text
+               id="text1462"
+               style="font-weight:normal;font-size:11px;font-family:Arial, sans-serif;fill:#1e88e5"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1458"
+                 y="9.8999996"
+                 x="0">Entrada de</tspan>
+              <tspan
+                 id="tspan1460"
+                 y="23.1"
+                 x="3.0625">caminhão</tspan>
+            </text>
+          </g>
+          <rect
+             id="rect1466"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="27"
+             width="54"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1468"
+             style="fill:none"
+             class="djs-outline"
+             height="39"
+             width="66"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <g
+         id="g1504"
+         class="djs-group">
+        <g
+           id="g1502"
+           transform="translate(460,412)"
+           style="display:block"
+           data-element-id="DataStoreReference_1e4kegr_label"
+           class="djs-element djs-shape">
+          <g
+             id="g1496"
+             class="djs-visual">
+            <text
+               id="text1494"
+               style="font-weight:normal;font-size:11px;font-family:Arial, sans-serif;fill:#000000"
+               class="djs-label"
+               lineHeight="1.2">
+              <tspan
+                 id="tspan1486"
+                 y="9.8999996"
+                 x="1.3125"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'" />
+            </text>
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot6883"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               transform="translate(27.857153,-662.80541)"><flowRegion
+                 id="flowRegion6885"><rect
+                   id="rect6887"
+                   width="302.03561"
+                   height="110.10663"
+                   x="80.812202"
+                   y="599.76575" /></flowRegion><flowPara
+                 id="flowPara6889"
+                 style="font-size:10.66666698px" /></flowRoot>            <flowRoot
+               xml:space="preserve"
+               id="flowRoot6891"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               transform="translate(27.857153,-662.80541)"><flowRegion
+                 id="flowRegion6893"><rect
+                   id="rect6895"
+                   width="214.1524"
+                   height="121.21838"
+                   x="-341.43155"
+                   y="1144.743" /></flowRegion><flowPara
+                 id="flowPara6897"
+                 style="font-size:10.66666698px" /></flowRoot>          </g>
+          <rect
+             id="rect1498"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="53"
+             width="80"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1500"
+             style="fill:none"
+             class="djs-outline"
+             height="65"
+             width="92"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1902"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(483.31146,-238.68358)"><flowRegion
+           id="flowRegion1904"><rect
+             id="rect1906"
+             width="136.87567"
+             height="109.09648"
+             x="-172.231"
+             y="702.2962" /></flowRegion><flowPara
+           id="flowPara1908"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:0px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'" /></flowRoot>      <g
+         transform="translate(163.78572,-232.35714)"
+         id="g1456-4"
+         class="djs-group">
+        <g
+           id="g1454-0"
+           transform="translate(146.88577,683.01015)"
+           style="display:block"
+           data-element-id="DataStoreReference_033vu00_label"
+           class="djs-element djs-shape">
+          <g
+             id="g1448-0"
+             class="djs-visual">
+            <text
+               id="text1446-4"
+               style="font-weight:normal;font-size:11px;line-height:28.35000229px;font-family:Arial, sans-serif;fill:#000000"
+               class="djs-label"
+               lineHeight="1.2"
+               x="-14.285714"
+               y="45.714287">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'"
+                 id="tspan2000" />
+            </text>
+            <text
+               style="font-weight:normal;font-size:11px;line-height:28.35000229px;font-family:Arial, sans-serif;fill:#000000"
+               class="djs-label"
+               lineHeight="1.2"
+               id="text2006">
+              <tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'"
+                 id="tspan2008" />
+            </text>
+          </g>
+          <rect
+             id="rect1450-6"
+             style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+             height="27"
+             width="85"
+             y="0"
+             x="0"
+             class="djs-hit djs-hit-all" />
+          <rect
+             id="rect1452-7"
+             style="fill:none"
+             class="djs-outline"
+             height="39"
+             width="97"
+             y="-6"
+             x="-6" />
+        </g>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2014"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.6453202,0,0,0.6453202,751.47195,106.75021)"><flowRegion
+           id="flowRegion2016"><rect
+             id="rect2018"
+             width="142.34013"
+             height="45.26334"
+             x="-662.6601"
+             y="670.98151" /></flowRegion><flowPara
+           id="flowPara2020"
+           style="font-size:16.52926254px;line-height:0%;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start"><flowSpan
+             style="font-size:16.52926254px;line-height:0%;text-align:start;text-anchor:start"
+             id="flowSpan2022">Está todo cheio, </flowSpan></flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2024"
+         style="font-style:normal;font-weight:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(506.59881,-277.3286)"><flowRegion
+           id="flowRegion2026"
+           style="font-size:17.33333397px"><rect
+             id="rect2028"
+             width="163.99998"
+             height="53.714283"
+             x="-182.85715"
+             y="836.09113"
+             style="font-size:17.33333397px" /></flowRegion><flowPara
+           id="flowPara2030"
+           style="font-size:10.66666698px">parcialmente, ou vazio?</flowPara></flowRoot>      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="m 395,604.75128 h 78.57144"
+         id="path2032"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-2)"
+         d="m 523.57144,604.75128 h 78.57144"
+         id="path2032-9"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 360.78572,594.32272 7.42857,9.71429 -7.42857,9.71428 h 3.42857 l 5.71429,-7.46422 5.71429,7.46422 h 3.42857 l -7.42857,-9.71428 7.42857,-9.71429 h -3.42857 l -5.71429,7.46423 -5.71429,-7.46423 z"
+         style="display:block;fill:#000000;stroke:#000000;stroke-width:1px"
+         id="path1006-0" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 489.31474,594.83867 7.42857,9.71429 -7.42857,9.71428 h 3.42857 l 5.71428,-7.46422 5.71429,7.46422 h 3.42857 l -7.42857,-9.71428 7.42857,-9.71429 h -3.42857 l -5.71429,7.46423 -5.71428,-7.46423 z"
+         style="display:block;fill:#000000;stroke:#000000;stroke-width:1px"
+         id="path1006-0-5" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6053-4-4"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(316.87825,-269.27928)"><flowRegion
+           id="flowRegion6055-8-0"
+           style="font-size:10.66666698px"><rect
+             id="rect6057-04-9"
+             width="78.317627"
+             height="47.979694"
+             x="-92.857155"
+             y="755.80542"
+             style="font-size:10.66666698px" /></flowRegion><flowPara
+           id="flowPara6059-2-1">Registrar veículo e hora de saída</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot7038"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(487.85715,-250.80541)"><flowRegion
+           id="flowRegion7040"><rect
+             id="rect7042"
+             width="128.28937"
+             height="103.54063"
+             x="14.142136"
+             y="357.8342" /></flowRegion><flowPara
+           id="flowPara7044"></flowPara></flowRoot>      <polygon
+         points="25,50 0,25 25,0 50,25 "
+         style="fill:#ffffff;fill-opacity:0.95;stroke:#000000;stroke-width:2px"
+         id="polygon1004-6"
+         transform="translate(495,107)" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 511,122 7.42857,9.71429 L 511,141.42857 h 3.42857 l 5.71429,-7.46423 5.71428,7.46423 h 3.42857 L 521.85714,131.71429 529.28571,122 h -3.42857 l -5.71428,7.46423 L 514.42857,122 Z"
+         style="fill:#000000;stroke:#000000;stroke-width:1px"
+         id="path1006-2" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6053-9-9"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(580.63668,-675.56331)"><flowRegion
+           id="flowRegion6055-1-9"
+           style="font-size:10.66666698px"><rect
+             id="rect6057-0-3"
+             width="87.409004"
+             height="46.211948"
+             x="-92.857155"
+             y="755.80542"
+             style="font-size:10.66666698px" /></flowRegion><flowPara
+           id="flowPara6059-7-6">A rua já passou por coleta?</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6053-4-0"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(557.84961,21.390439)"><flowRegion
+           id="flowRegion6055-8-5"
+           style="font-size:10.66666698px"><rect
+             id="rect6057-04-0"
+             width="78.317627"
+             height="47.979694"
+             x="-92.857155"
+             y="755.80542"
+             style="font-size:10.66666698px" /></flowRegion><flowPara
+           id="flowPara6059-2-2">Registrar lixo coletado por rua</flowPara></flowRoot>      <path
+         style="fill:none;stroke:#000000;stroke-width:1.05793798;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-2-9)"
+         d="m 498.57144,629.75128 v 87.66341"
+         id="path2032-9-3"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2943-5"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(477.76563,-101.41696)"><flowRegion
+           id="flowRegion2945-1"><rect
+             id="rect2947-7"
+             width="158.08887"
+             height="83.337585"
+             x="27.274118"
+             y="733.61096" /></flowRegion><flowPara
+           id="flowPara2949-4"
+           style="font-size:10.66666698px">Não</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2943-5-3"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(518.01642,-641.743)"><flowRegion
+           id="flowRegion2945-1-1"><rect
+             id="rect2947-7-4"
+             width="158.08887"
+             height="83.337585"
+             x="27.274118"
+             y="733.61096" /></flowRegion><flowPara
+           id="flowPara2949-4-6"
+           style="font-size:10.66666698px">Não</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2943-9"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(495.0131,-600.58395)"><flowRegion
+           id="flowRegion2945-4"><rect
+             id="rect2947-2"
+             width="158.08887"
+             height="83.337585"
+             x="27.274118"
+             y="733.61096" /></flowRegion><flowPara
+           id="flowPara2949-2"
+           style="font-size:10.66666698px">Sim</flowPara></flowRoot>      <path
+         style="fill:none;stroke:#000000;stroke-width:1.75748038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 651.42858,562.7857 v -49.01471 c 0,-4.51849 -2.81624,-7.42948 -8.26047,-7.42948 h -57.29553 c -7.90454,0 -7.30114,-2.59545 -7.30114,-8.95748 V 138.94642 c 0,-4.92199 0.10951,-6.88684 4.9089,-6.88684 L 600.10302,132"
+         id="path8037"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2943-5-3-6"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(600.54539,-599.64853)"><flowRegion
+           id="flowRegion2945-1-1-4"><rect
+             id="rect2947-7-4-1"
+             width="158.08887"
+             height="83.337585"
+             x="27.274118"
+             y="733.61096" /></flowRegion><flowPara
+           id="flowPara2949-4-6-2"
+           style="font-size:10.66666698px">Não</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot8073"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(604.94308,-228.58205)"><flowRegion
+           id="flowRegion8075"
+           style="font-size:12px"><rect
+             id="rect8077"
+             width="103.54063"
+             height="69.195435"
+             x="127.78429"
+             y="469.96115"
+             style="font-size:12px" /></flowRegion><flowPara
+           id="flowPara8079">Aguardar entrada de caminhão</flowPara></flowRoot>      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e10000;stroke-width:2.49316978;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8081"
+         cx="759.74896"
+         cy="222.9438"
+         r="15.404826" />
+      <circle
+         style="opacity:1;fill:#e10000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.70367992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8083"
+         cx="759.74902"
+         cy="223.07007"
+         r="11.995561" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.37952757;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8095)"
+         d="m 625.10302,156.99999 v 67.11984 h 111.08067"
+         id="path8085"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6053-9-8"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0,-1.531403,1.531403,0,-975.53279,128.29278)"><flowRegion
+           id="flowRegion6055-1-8"
+           style="font-size:10.66666698px"><rect
+             id="rect6057-0-9"
+             width="145.35896"
+             height="25.591753"
+             x="-92.857155"
+             y="755.80542"
+             style="font-size:10.66666698px" /></flowRegion><flowPara
+           id="flowPara6059-7-2">Roteirização de coletas</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6053-9-8-8"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0,-1.4438091,1.4438091,0,-907.66211,484.60195)"><flowRegion
+           id="flowRegion6055-1-8-8"
+           style="font-size:10.66666698px"><rect
+             id="rect6057-0-9-8"
+             width="145.35896"
+             height="25.591753"
+             x="-92.857155"
+             y="755.80542"
+             style="font-size:10.66666698px" /></flowRegion><flowPara
+           id="flowPara6059-7-2-6">Execução de coletas</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.1354332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8517"
+         width="37.5"
+         height="238.00002"
+         x="172.5"
+         y="61.999981"
+         rx="0"
+         ry="0" />
+      <text
+         lineHeight="1.2"
+         class="djs-label"
+         style="font-weight:normal;font-size:12px;font-family:Arial, sans-serif;fill:#000000"
+         transform="rotate(-90)"
+         id="text870-8"
+         x="-548"
+         y="174.64285">
+        <tspan
+           x="-429"
+           y="193.24286"
+           id="tspan868-3" />
+      </text>
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.1354332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8517-3"
+         width="37.5"
+         height="519.61206"
+         x="172.4982"
+         y="310"
+         rx="0"
+         ry="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2951-2-0"
+         d="m 249.46798,398.27353 v 32.79548"
+         style="fill:none;stroke:#000000;stroke-width:1.75748038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.75748033, 7.02992135;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3067-6-3)" />
+    </g>
+  </g>
+</svg>
